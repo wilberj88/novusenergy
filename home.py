@@ -13,9 +13,9 @@ st.write("Bienvenidos al futuro energético 👋")
 st.markdown(
   """
   En esta web encontrarás:
-  - 🔎   Diagnóstico de tu necesidad energética y presupuestal
-  - 🛒   Recomendación de Portafolio de Servicios Requeridos
-  - ✍️    Propuesta Inteligente de Contrato
+  - 🔎_Diagnóstico de tu necesidad energética y presupuestal
+  - 🛒_Recomendación de Portafolio de Servicios Requeridos
+  - ✍️_Propuesta Inteligente de Contrato
   
   Todo lo anterior basado en:
   - Tecnología para la optimización: Planes de Ahorro o Repotenciación
