@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title('Conoce nuestro portafolio de servicios personalizado 🛒 a tu Diagnóstico 🔎')
+st.title('Gracias a tu Diagnóstico🔎 sabemos que podemos ahorrarte💰 en 1 año XXX y en 5 años YYYY')
+st.write('El portafolio de servicios personalizado 🛒 a tu necesidad🎯 es:')
 
-st.write('Dado que tu presupuesto es: ')
-st.write('Te recomendamos:')
+st.write('BLA BLA BLA')
