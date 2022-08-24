@@ -20,7 +20,7 @@ st.markdown(
   Todo lo anterior basado en:
   - Tecnología para la optimización: Planes de Ahorro o Repotenciación
   - Tecnología para la neutralidad de carbono: Planes de Mitigación
-  - Tecnología para salvar el planeta: Planes de Adaptación
+  - Tecnología para salvar el planeta: Innovación en toda la cadena energética y Planes de Adaptación
   
   EMPIEZA TU 🔎 DIAGNÓSTICO AHORA 🕰
   """
