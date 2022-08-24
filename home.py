@@ -13,15 +13,15 @@ st.write("Bienvenidos al futuro energético 👋")
 st.markdown(
   """
   En esta web encontrarás:
-  - 🔎__ Diagnóstico de tu necesidad energética y presupuestal
-  - 🛒__ Recomendación de Portafolio de Servicios Requeridos
-  - ✍️__ Propuesta Inteligente de Contrato
+  - 🔎 -> Diagnóstico de tu necesidad energética y presupuestal
+  - 🛒 -> Recomendación de Portafolio de Servicios Requeridos
+  - ✍️ -> Propuesta Inteligente de Contrato
   
   Todo lo anterior basado en:
   - Tecnología para la optimización: Planes de Ahorro o Repotenciación
   - Tecnología para la neutralidad de carbono: Planes de Mitigación
   - Tecnología para salvar el planeta: Planes de Adaptación
   
-  EMPIEZA TU 🔎_  DIAGNÓSTICO AHORA _🕰
+  EMPIEZA TU 🔎 DIAGNÓSTICO AHORA 🕰
   """
 )
