@@ -14,7 +14,7 @@ st.markdown(
   """
   En esta web encontrarás:
   - 🔎_Diagnóstico de tu necesidad energética y presupuestal
-  - 🛒_Recomendación de Portafolio de Servicios Requeridos
+  - 🛒 Recomendación de Portafolio de Servicios Requeridos
   - ✍️_Propuesta Inteligente de Contrato
   
   Todo lo anterior basado en:
