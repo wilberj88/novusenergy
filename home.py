@@ -5,7 +5,7 @@ import numpy as np
 # SETTING PAGE CONFIG TO WIDE MODE AND ADDING A TITLE AND FAVICON
 st.set_page_config(layout="wide", page_title="Novus Energy", page_icon=":battery:")
 
-st.title('Novus Energy')
+st.title('Novus Energy 🔋')
 st.header("Salvemos juntos el planeta 🌎")
 
 st.write("Bienvenidos al futuro energético 👋")
