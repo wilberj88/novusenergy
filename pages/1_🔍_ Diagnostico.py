@@ -6,7 +6,7 @@ st.title('Diagnosticamos tu potencial ahorro energético')
 st.write('Indica la ubicación de la necesidad energética y el presupuesto anual disponible')
 
 map_data = pd.DataFrame(
-    np.random.randn(1000, 2) / [50, 50] + [37.76, -122.4],
+    np.random.randn(1000, 2) / [50, 50] + [35.56, 74.04],
     columns=['lat', 'lon'])
 
 st.map(map_data)
