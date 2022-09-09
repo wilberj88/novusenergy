@@ -1,6 +1,6 @@
 import streamlit as st
 import numpy as np
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 
 st.title('Gracias a tu Diagnóstico🔎 sabemos que podemos ahorrarte💰:')
 st.write('1 año: XXX')
@@ -15,11 +15,11 @@ st.write('¿Cómo materializaremos el ahorro?')
 st.write('Transformaremos tu matriz energética hacia fuentes no solo más económicas sino también más sostenibles:')
 st.write('Matriz Energética Actual Vs Proyectada')
 
-theta = np.linspace(0,2*np.pi)
-r = 5 + 50*theta
+#theta = np.linspace(0,2*np.pi)
+#r = 5 + 50*theta
 
-fig = plt.figure()
-ax = fig.add_subplot(111, projection="polar")
-ax.plot(theta,r)
+#fig = plt.figure()
+#ax = fig.add_subplot(111, projection="polar")
+#ax.plot(theta,r)
 
-plt.show()
+#plt.show()
