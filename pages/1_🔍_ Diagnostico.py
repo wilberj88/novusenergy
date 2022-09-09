@@ -6,8 +6,9 @@ st.title('Diagnosticamos tu potencial ahorro energético')
 
 st.slider('En kilovatios hora (Kwh): ¿cuál es tu consumo energético mensual?', 0, 100000)
 
-st.slider('En pesos cuánto es tu presupuesto energético anual?', 0, 100000000)
-#st.select_slider('Pick a size', ['S', 'M', 'L'])
+st.slider('En millones de pesos al año: ¿cuánto inviertes en energía?', 0, 100000000)
+
+st.select_slider('Pick a size', ['S', 'M', 'L'])
 
 # st.select_slider('¿Cuál es tu fuente principal de energía?', ['Agua', 'Combustible', 'Calor'])
 
