@@ -9,4 +9,4 @@ st.slider('En kilovatios hora (Kwh): ¿cuál es tu consumo energético mensual?'
 st.slider('En millones de pesos al año: ¿cuánto inviertes en energía?', 0, 100000000)
 
 
-st.radio('Cuál es tu fuente principal de energia', ['agua', 'carbon'])
+st.radio('Cuál es tu fuente principal de energia', ['agua', 'carbon', 'combustible', 'termoelectrica', 'solar', 'viento'])
