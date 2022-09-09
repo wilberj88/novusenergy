@@ -2,8 +2,6 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-pn.extension()
-
 st.title('Diagnosticamos tu potencial ahorro energético')
 
 
