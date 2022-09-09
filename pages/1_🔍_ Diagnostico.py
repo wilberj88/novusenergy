@@ -9,7 +9,7 @@ st.slider('En kilovatios hora (Kwh): ¿cuál es tu consumo energético mensual?'
 
 st.slider('En pesos cuánto es tu presupuesto energético anual?', 0, 1000000000)
 
-st.selectbox('¿Cuál es tu fuente principal de energía?', ['agua', 'combustible', 'calor', 'carbón', 'termoeléctrica'])
+st.selectbox('¿Cuál es tu fuente principal de energía?', ['agua', 'combustible', 'calor', 'carbon', 'termoelectrica'])
 
 
 
