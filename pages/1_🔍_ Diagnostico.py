@@ -5,7 +5,7 @@ import numpy as np
 st.title('Diagnosticamos tu potencial ahorro energético')
 
 
-st.slider('En Megavatios: ¿cuál es tu consumo energético mensual?', 0, 100)
+st.slider('En kilovatios hora (Kwh): ¿cuál es tu consumo energético mensual?', 0, 1000)
 
 st.text_input("¿Cuál es tu presupuesto anual para consumo energético?")
 
