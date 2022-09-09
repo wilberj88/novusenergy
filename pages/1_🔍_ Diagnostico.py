@@ -5,7 +5,7 @@ import numpy as np
 st.title('Diagnosticamos tu potencial ahorro energético')
 
 
-st.text_input("¿Cuál es tu presupuesto mensual para consumo energético?")
+st.text_input("¿Cuál es tu consumo energético mensual?")
 
 st.text_input("¿Cuál es tu presupuesto anual para consumo energético?")
 
