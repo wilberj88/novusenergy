@@ -5,12 +5,11 @@ import numpy as np
 st.title('Diagnosticamos tu potencial ahorro energético')
 
 
-st.slider('En kilovatios hora (Kwh): ¿cuál es tu consumo energético mensual?', 0, 1000)
+st.slider('En kilovatios hora (Kwh): ¿cuál es tu consumo energético mensual?', 0, 100000)
 
-st.text_input("¿Cuál es tu presupuesto anual para consumo energético?")
+st.slider('En pesos cuánto es tu presupuesto energético anual?', 0, 1000000000)
 
-st.text_input("¿Cuál es tu fuente principal de energía?")
-
+st.selectbox('¿Cuál es tu fuente principal de energía?', ['agua', 'combustible', 'calor', 'carbón', 'termoeléctrica'])
 
 
 
