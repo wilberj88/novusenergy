@@ -8,10 +8,7 @@ pn.extension()
 st.title('Diagnosticamos tu potencial ahorro energético')
 
 
-st.text_input("¿Cuál es tu consumo energético mensual?")
-int_slider = pn.widgets.IntSlider(name='Integer Slider', start=0, end=8, step=2, value=4)
-
-int_slider
+st.slider('En Megavatios: ¿cuál es tu consumo energético mensual?', 0, 100)
 
 st.text_input("¿Cuál es tu presupuesto anual para consumo energético?")
 
