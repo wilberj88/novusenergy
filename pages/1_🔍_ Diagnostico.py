@@ -1,24 +1,17 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import ipywidgets as widgets
+import panel as pn
+
+pn.extension()
 
 st.title('Diagnosticamos tu potencial ahorro energético')
 
 
 st.text_input("¿Cuál es tu consumo energético mensual?")
-widgets.IntSlider(
-    value=7,
-    min=0,
-    max=10,
-    step=1,
-    description='Test:',
-    disabled=False,
-    continuous_update=False,
-    orientation='horizontal',
-    readout=True,
-    readout_format='d'
-)
+int_slider = pn.widgets.IntSlider(name='Integer Slider', start=0, end=8, step=2, value=4)
+
+int_slider
 
 st.text_input("¿Cuál es tu presupuesto anual para consumo energético?")
 
