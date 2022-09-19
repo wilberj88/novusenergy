@@ -1,16 +1,12 @@
 import streamlit as st
 import numpy as np
 
-consumo = st.session_state.consumo
-presupuesto = st.session_state.presupuesto
-tipo = st.session_state.tipo
-
-ahorro_uno = presupuesto*0,2
+presupuesto = st.session_state.presupuesto*0,2
 
 st.title('Tu Diagnóstico🔎 nos indica cuánto podemos ahorrarte💰:')
 st.write('En 1 año:')
 
-st.write(ahorro_uno)
+st.write(presupuesto)
 
 st.write('En 5 años:')
 
