@@ -1,12 +1,10 @@
 import streamlit as st
 import numpy as np
 
-a = st.session_state.presupuesto
-
 st.title('Tu Diagnóstico🔎 nos indica cuánto podemos ahorrarte💰:')
 st.write('En 1 año:')
 
-st.write(a/0,5)
+st.write(st.session_state.presupuesto)
 
 st.write('En 5 años:')
 
