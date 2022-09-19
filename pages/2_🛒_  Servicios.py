@@ -3,7 +3,7 @@ import numpy as np
 
 st.title('Tu Diagnóstico🔎 nos indica cuánto podemos ahorrarte💰:')
 st.write('En 1 año:')
-st.session_state.consumo
+
 st.write('En 5 años:')
 
 st.write('El portafolio de servicios personalizado 🛒 a tu necesidad🎯 es:')
