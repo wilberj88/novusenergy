@@ -2,7 +2,7 @@ import streamlit as st
 import numpy as np
 
 st.title('Tu Diagnóstico🔎 nos indica cuánto podemos ahorrarte💰:')
-st.write('En 1 año:', a*0,2)
+st.write('En 1 año:', a)
 
 st.write('En 5 años:')
 
