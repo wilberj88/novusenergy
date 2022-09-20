@@ -4,6 +4,11 @@ import numpy as np
 
 st.title('Tu Diagnóstico🔎 nos indica que podemos ahorrarte💰:')
 
+def ahorro1 ():
+  a = int(st.write(st.session_state.presupuesto))
+  b = a*0,2
+  print(b)
+
 st.latex(r''' Año1 ''')
 
 st.latex(r''' Año5 ''')
