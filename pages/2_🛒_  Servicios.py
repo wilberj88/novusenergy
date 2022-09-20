@@ -1,12 +1,10 @@
 import streamlit as st
 import numpy as np
-a = st.write(st.session_state.presupuesto)
 
 
 st.title('Tu Diagnóstico🔎 nos indica que podemos ahorrarte💰:')
 
 st.latex(r''' Año1 ''')
-a
 
 st.latex(r''' Año5 ''')
 
