@@ -2,7 +2,7 @@ import streamlit as st
 import numpy as np
 
 st.title('Tu Diagnóstico🔎 nos indica que podemos ahorrarte💰:')
-ahorro1()
+
 
 st.header('Ahorro en el año 1')
 
