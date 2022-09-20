@@ -2,7 +2,7 @@ import streamlit as st
 import numpy as np
 
 def ahorro1():
-  a = st.write(st.session_state.presupuesto)
+  a = int(st.session_state.presupuesto)
   b = a*0,2
   print(b)
 
