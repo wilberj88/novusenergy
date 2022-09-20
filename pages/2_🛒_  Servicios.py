@@ -5,6 +5,8 @@ st.title('Tu Diagnóstico🔎 nos indica cuánto podemos ahorrarte💰:')
 st.write('En 1 año:')
 
 st.write(st.session_state.presupuesto)
+st.write(st.session_state.consumo)
+st.write(st.session_state.tipo)
 
 st.write('En 5 años:')
 
