@@ -1,7 +1,13 @@
 import streamlit as st
 import numpy as np
 
-st.title('Tu Diagnóstico🔎 nos indica cuánto podemos ahorrarte💰:')
+st.title('Tu Diagnóstico🔎 nos indica que podemos ahorrarte💰:')
+
+st.latex(r''' En el 1er Año ''')
+
+
+st.latex(r''' En el 5to Año ''')
+
 
 st.latex(r''' e^{i\pi} + 1 = 0 ''')
 st.text('Fixed width text')
