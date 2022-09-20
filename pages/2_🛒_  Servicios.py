@@ -5,8 +5,7 @@ st.title('Tu Diagnóstico🔎 nos indica cuánto podemos ahorrarte💰:')
 st.write('En 1 año:')
 
 st.write(st.session_state.presupuesto)
-st.write(st.session_state.consumo)
-st.write(st.session_state.fuente)
+
 
 st.write('En 5 años:')
 
@@ -20,3 +19,7 @@ st.write('¿Cómo materializaremos el ahorro?')
 st.write('Transformaremos tu matriz energética hacia fuentes no solo más económicas sino también más sostenibles:')
 st.write('Matriz Energética Actual Vs Proyectada')
 
+st.write(st.session_state.consumo)
+
+
+st.write(st.session_state.fuente)
