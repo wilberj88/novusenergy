@@ -3,8 +3,8 @@ import numpy as np
 
 st.title('Tu Diagnóstico🔎 nos indica que podemos ahorrarte💰:')
 
-st.header('Ahorro en el año 1')
-st.write([5%, 9%, 14%]) # see *
+st.header('Ahorro en el año 1 (%)')
+st.write([5, 9, 14]) # see *
 
 st.header('Ahorro en el año 5')
 st.write(['st', 'is <', 3]) # see *
