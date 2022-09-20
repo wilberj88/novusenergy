@@ -1,18 +1,12 @@
 import streamlit as st
 import numpy as np
 
-def ahorro1():
-  a = int(st.session_state.presupuesto)
-  b = a*0,2
-  print(b)
-
 st.title('Tu Diagnóstico🔎 nos indica que podemos ahorrarte💰:')
 ahorro1()
 
+st.header('Ahorro en el año 1')
 
-st.latex(r''' Año1 ''')
-
-st.latex(r''' Año5 ''')
+st.header('Ahorro en el año 5')
 
 
 st.latex(r''' e^{i\pi} + 1 = 0 ''')
@@ -21,7 +15,7 @@ st.markdown('_Markdown_') # see *
 st.write('Most objects') # df, err, func, keras!
 st.write(['st', 'is <', 3]) # see *
 st.title('My title')
-st.header('My header')
+
 st.subheader('My sub')
 
 st.write('En 1 año:')
