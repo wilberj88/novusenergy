@@ -4,10 +4,10 @@ import numpy as np
 st.title('Tu Diagnóstico🔎 nos indica que podemos ahorrarte💰:')
 
 st.header('Ahorro en el año 1 (%)')
-st.write([5, 9, 14]) # see *
+st.write([5, 9, 14, 17]) # see *
 
 st.header('Ahorro en el año 5')
-st.write(['st', 'is <', 3]) # see *
+st.write([20, 36, 56, 68]) # see *
 
 st.latex(r''' e^{i\pi} + 1 = 0 ''')
 st.text('Fixed width text')
