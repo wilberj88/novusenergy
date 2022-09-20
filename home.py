@@ -25,3 +25,11 @@ st.markdown(
   EMPIEZA TU 🔎 DIAGNÓSTICO AHORA 🕰
   """
 )
+
+
+st.slider('En kilovatios hora (Kwh): ¿cuál es tu consumo energético mensual?', 0, 100000, key="consumo")
+
+st.slider('En millones de pesos al año: ¿cuánto inviertes en energía?', 0, 1000000, key="presupuesto")
+
+st.radio('¿Cuál es tu fuente principal de energia?', ['Agua', 'Carbon', 'Combustible', 'Termoelectrica', 'Solar', 'Viento'], key="fuente")
+
