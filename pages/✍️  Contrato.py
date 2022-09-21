@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.title('Tenemos un contrato 📜  personalizado 🎯 a tu diagnóstico 🔎 ')
-st.write('Porque tu necesidad es única, también tu contrato')
+st.write('Porque tu necesidad es única, también tu contrato, pero primero regístrate:')
 
 with st.form(key='my_form'):
    username = st.text_input('Username')
