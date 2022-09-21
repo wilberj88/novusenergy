@@ -3,9 +3,11 @@ import numpy as np
 
 st.title('Tu Diagnóstico🔎 nos indica que podemos ahorrarte💰:')
 
-tab1, tab2 = st.tabs(["Ahorro en año 1", "Ahorro en año 2"])
-tab1.write("this is tab 1")
-tab2.write("this is tab 2")
+tab1, tab2, tab3, tab4 = st.tabs(["En 1 año", "En 5 años", "En 10 años", "En 20 años"])
+tab1.write("Entre un 15-27%")
+tab2.write("Entre un 18-32%")
+tab3.write("Entre un 45-82%")
+tab4.write("Entre un 95-100%")
 
 st.header('Ahorro en el año 1 (%)')
 st.write([5, 9, 14, 17]) # see *
