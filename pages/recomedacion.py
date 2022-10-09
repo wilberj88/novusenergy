@@ -15,3 +15,7 @@ st.write("Sistema para optimización de Lluvia 🌧️")
 
 
 st.write("Sistema para optimización de Viento 🌪️")
+
+st.header("Soluciones basadas en la Naturaleza 🌼")
+
+st.write("Estudio de Código Genético de los Girasoles 🧬")
