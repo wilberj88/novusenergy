@@ -1,5 +1,12 @@
 # novusenergy
 
+#REFERENCIAS
+DATOS:
+The Global Power Plant Dataset:30,000 power plants across 164 different countries. The dataset contains detailed features about power plants such as geolocation, plant owner, primary fuel and secondary fuel types, etc:
+https://medium.com/analytics-vidhya/end-to-end-guide-creating-a-web-application-using-dash-cd5a8553bcec
+
+
+#SERVICIOS
 Monitores:
 -) Acciones Energéticas (¿Yahoo Finance?)
 -) Bolsa Energía
