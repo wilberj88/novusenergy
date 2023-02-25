@@ -5,6 +5,8 @@ DATOS:
 The Global Power Plant Dataset:30,000 power plants across 164 different countries. The dataset contains detailed features about power plants such as geolocation, plant owner, primary fuel and secondary fuel types, etc:
 https://medium.com/analytics-vidhya/end-to-end-guide-creating-a-web-application-using-dash-cd5a8553bcec
 
+Ubicaciones óptimas de granjas solares en el mundo:
+https://medium.com/kontur-inc/solar-farm-placement-79643511e1bf
 
 #SERVICIOS
 Monitores:
