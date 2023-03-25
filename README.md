@@ -35,3 +35,7 @@ Financiación:
 
 Target:
 -) RE100: neutros en 2025
+
+
+Referentes:
+-) Enzima genera electricidad con aire: https://www.dw.com/es/descubren-enzima-capaz-de-generar-electricidad-a-partir-del-aire-que-respiramos/a-65016063
