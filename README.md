@@ -39,3 +39,8 @@ Target:
 
 Referentes:
 -) Enzima genera electricidad con aire: https://www.dw.com/es/descubren-enzima-capaz-de-generar-electricidad-a-partir-del-aire-que-respiramos/a-65016063
+
+
+Time Series for Climate Change: Forecasting Energy Demand | by Vitor Cerqueira | May, 2023 | Towards Data Science
+https://towardsdatascience.com/time-series-for-climate-change-forecasting-energy-demand-79f39c24c85e
+
