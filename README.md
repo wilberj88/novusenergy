@@ -39,7 +39,7 @@ Target:
 
 Referentes:
 -) Enzima genera electricidad con aire: https://www.dw.com/es/descubren-enzima-capaz-de-generar-electricidad-a-partir-del-aire-que-respiramos/a-65016063
-
+-) Rooftop-solar-potential: https://medium.com/@taremyor/rooftop-solar-potential-assessment-using-gis-and-photogrammetry-case-study-of-karaman-turkiye-f179494c671c
 
 Time Series for Climate Change: Forecasting Energy Demand | by Vitor Cerqueira | May, 2023 | Towards Data Science
 https://towardsdatascience.com/time-series-for-climate-change-forecasting-energy-demand-79f39c24c85e
