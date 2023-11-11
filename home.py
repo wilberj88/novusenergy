@@ -7,7 +7,7 @@ st.set_page_config(layout="wide", page_title="Novus Energy", page_icon="🔋")
 
 st.title('Novus Energy 🔋')
 st.header("Real time Monitoring, Operations & Simulations")
-a = st.selectbox("Choose a City", ["New York", "Bogota", "Madrid", "London"], placeholder="Choose an option")
+a = st.selectbox("Choose a City", ("New York", "Bogota", "Madrid", "London"), index=None, placeholder="Choose an option")
 
 if a:
     st.subheader("1. Monitoring")
