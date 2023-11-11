@@ -5,17 +5,17 @@ import numpy as np
 # SETTING PAGE CONFIG TO WIDE MODE AND ADDING A TITLE AND FAVICON
 st.set_page_config(layout="wide", page_title="Novus Energy", page_icon="🔋")
 
-st.title('Novus Energy 🔋')
-st.header("Ahorra 💰 mientras salvamos juntos el planeta 🌎")
+st.title('Novus Energy Technologies 🔋')
+st.header("Soluciones en la nube para servicios energéticos inteligentes 🧠")
 
 st.write("Bienvenidos al futuro energético 👋")
 
 st.markdown(
   """
   En esta web encontrarás:
-  - 🔎 _    Diagnóstico de tu necesidad energética y presupuestal
-  - 🛒 _    Recomendación de Portafolio de Servicios Requeridos
-  - ✍️ _     Propuesta Inteligente de Contrato
+  - 🔎 _    Simulación de Escenarios Energéticos
+  - 🛒 _    Modelación en Tiempo Real de Demanda y Oferta Energética
+  - ✍️ _     Alarmas de Precios, Disponibilidades y Rentabilidades
   
   Todo lo anterior basado en:
   - Tecnología para la optimización: Planes de Ahorro o Repotenciación
