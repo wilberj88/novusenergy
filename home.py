@@ -5,8 +5,19 @@ import numpy as np
 # SETTING PAGE CONFIG TO WIDE MODE AND ADDING A TITLE AND FAVICON
 st.set_page_config(layout="wide", page_title="Novus Energy", page_icon="🔋")
 
-st.title('Novus Energy Technologies 🔋')
-st.header("Soluciones en la nube para servicios energéticos inteligentes 🧠")
+st.title('Novus Energy 🔋')
+st.header("Real time Monitoring, Operations & Simulations")
+st.selectbox("Choose a City", ["New York", "Bogota", "Madrid", "London"])
+st.subheader("1. Monitoring")
+st.write("Energy Demand by City")
+st.write("Energy Supply by City")
+
+st.subheader("2. Operations")
+st.write("Optimization by Current Weather")
+
+st.subheader("3. Simulations")
+st.write("Estimate potential costs of Weather and Climate Dissasters")
+
 
 st.write("Bienvenidos al futuro energético 👋")
 
