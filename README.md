@@ -8,6 +8,9 @@ https://medium.com/analytics-vidhya/end-to-end-guide-creating-a-web-application-
 Gas production:
 https://stefcroo.medium.com/gas-production-profiles-in-dynamic-python-based-streamlit-app-e2fd20fe145e
 
+Weather data with solar energy production data:
+https://heartbeat.comet.ml/harnessing-machine-learning-for-climate-change-mitigation-a-roadmap-to-sustainable-future-e09e9b2ff507
+
 Ubicaciones óptimas de granjas solares en el mundo:
 https://medium.com/kontur-inc/solar-farm-placement-79643511e1bf
 
